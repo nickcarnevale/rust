@@ -1,8 +1,4 @@
-# CSE262 - Programming Langauges - Spring 2024
-
-# Homework 1 - Learning Rust
-
-**Due Date: 2/12/2024 EOD**
+Learning Rust
 
 ## Assignment
 
@@ -37,14 +33,3 @@ Or to test specifically one file:
 ```bash
 > cargo test variables::variables1
 ```
-
-However, because the files in this project contain a number of syntax errors, these will all be reported (from every module) even though you have only specified to run a specific test module. If you would like to filter out these other errors while you are working on a single project, you can comment out the modules in `src/lib.rs`.
-
-## Instructions
-
-1. Fork the relevant repository into your own namespace. [Instructions](https://docs.gitlab.com/ee/workflow/forking_workflow.html#creating-a-fork)
-2. Clone your newly forked repository. [Instructions](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#clone-a-repository) 
-3. Write code sufficient to make the tests pass. As you are writing code you should commit patches along the way. *i.e.* don't just submit all your code in one big commit when you're all done. Commit your progress as you work. You should have one commit at least per section.
-4. When you've passed all tests, there's nothing else to do to submit.
-
-Testing Push
