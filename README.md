@@ -1,9 +1,5 @@
 Learning Rust
 
-## Assignment
-
-This assignment asks you to familiarize yourself with the syntax and semantics of the Rust programming language. The assignment is broken down into 7 sections:
-
 - Section1 - Variables
 - Section2 - Strings
 - Section3 - Primitive Types
@@ -11,8 +7,6 @@ This assignment asks you to familiarize yourself with the syntax and semantics o
 - Section5 - Functions
 - Section6 - Structs
 - Section7 - Move Semantics
-
-Each section presents a number of problems that ask you to correct the given code so that it compiles. Do this for every file so that the project builds and all tests pass. Each section contains a README.md file with a link to the relevant chapters in the Rust programming language handbook. If you're stuck, be sure to look at the hint at the bottom of each file.
 
 ## Running
 
