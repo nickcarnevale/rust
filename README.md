@@ -1,4 +1,4 @@
-Learning Rust
+# Learning Rust
 
 - Section1 - Variables
 - Section2 - Strings
