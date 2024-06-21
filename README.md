@@ -1,4 +1,6 @@
-# Learning Rust
+# rust
+
+Learn rust with me!
 
 - Section1 - Variables
 - Section2 - Strings
