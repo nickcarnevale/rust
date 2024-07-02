@@ -1,6 +1,6 @@
 # rust
 
-Learn rust with me!
+Learn rust with me! Testing private commits.
 
 - Section1 - Variables
 - Section2 - Strings
